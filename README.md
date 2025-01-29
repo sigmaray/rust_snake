@@ -61,4 +61,5 @@ TIMEOUT=500 cargo run
 
 # Demo
 
-![til](https://raw.githubusercontent.com/sigmaray/rust_snake/master/rust_snake.png)
+![demo](./rust_snake.gif)
+
